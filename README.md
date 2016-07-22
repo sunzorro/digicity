@@ -4,6 +4,9 @@
 
 Git version control
 
+<a href="http://haoqicat.com/ride-cli-monster">Ride Cli Monster</a>
+<br>
+
 
 NO CODE TASK TODAY
 
@@ -27,8 +30,9 @@ NO CODE TASK TODAY
 
 change remote address:
 
-```
-atom .git/config
+
+<a href="http://haoqicat.com/ride-cli-monster">Ride Cli Monster</a>
+<br>
 ```
 
 delete all remote address settings, and run git remote add again
